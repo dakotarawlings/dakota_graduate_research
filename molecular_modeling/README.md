@@ -2,8 +2,8 @@
 
 ## Project Overview
 * Wrote a moleclar dynamics simulation program to understand the effects of charge density, polymer chain stiffness, and polymer length on ion transport in ionic liquid functionalized conjugated polymers
-* See [this document](https://sites.engineering.ucsb.edu/~shell/che210d/gallery2019/DHanemannRawlings_report.pdf) for more information on my simulation work
 * Wrote Fortran code for completing computationally expesive steps (namely computing total energies and forces on each atom) and compiled code into Python modules using f2py
+* See [this document](https://sites.engineering.ucsb.edu/~shell/che210d/gallery2019/DHanemannRawlings_report.pdf) for more information on my simulation work
 * This work inspired the simulation work in my recent [first author publication](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c01811)
 
 ## References
