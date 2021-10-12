@@ -3,7 +3,7 @@
 ## Overview
 
 This repository summarizes all of the projects, and associated code, that I developed during my graduate research in chemical engineering
-1. [Molecular dynamics simulations](/statistical_mechanical_modeling)
+1. [Molecular dynamics simulations](/molecular_modeling)
 2. Spectroscopic charachterization and data analysis
 3. Electrochemical transistor device measurements and data analysis
 
